@@ -1,0 +1,8 @@
+#python
+*.pyc
+
+# vs coder
+.vscode
+
+# misc
+.DS_Store
