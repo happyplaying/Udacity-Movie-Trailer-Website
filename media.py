@@ -1,7 +1,7 @@
 import webbrowser
 
 class Movie():
-    def __init__(self, title, year, poster, trailer):
+    def __init__(self, id, title, description, year, poster, trailer):
         """ 
         A movie class has the following four attributes
         title = movie's title, string
@@ -9,7 +9,9 @@ class Movie():
         poster = movie's poster URL, string
         trailer = movie's trailer, string
         """
+        self.id = id
         self.title = title
+        self.description = description
         self.year = year
         self.poster = poster
         self.trailer = trailer
