@@ -47,7 +47,7 @@ main_page_content = '''
             <p class="float-right">
                 <a href="#">Back to top</a>
             </p>
-            <p>A Movie Trailers Website Demo Built with <a href="https://www.python.org">Python</a> and <a href="https://getbootstrap.com" traget="_blank">Bootstrap</a></p>
+            <p>A Movie Trailers Website Demo Built with Python and Bootstrap by <a href="https://www.geekchao.com">Chao Guo</a></p>
         </div>
     </footer>
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>

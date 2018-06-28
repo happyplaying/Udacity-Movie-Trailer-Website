@@ -5,6 +5,18 @@ footer {
 footer p {
     margin-bottom: .25rem;
 }
+.movie-modal .card:hover {
+    -moz-box-shadow: 0 0 5px rgba(0,0,0,0.5);
+    -webkit-box-shadow: 0 0 5px rgba(0,0,0,0.5);
+    box-shadow: 0 0 5px rgba(0,0,0,0.5);
+    transform: scale(1.1, 1.1);
+    -ms-transform: scale(1.1, 1.1); 
+    -webkit-transform: scale(1.1, 1.1);
+    z-index: 1;
+    transition-duration: 0.5s;
+    cursor: pointer;
+}
+
 .youtube-wrapper {
     position: relative;
     width: 100%;
