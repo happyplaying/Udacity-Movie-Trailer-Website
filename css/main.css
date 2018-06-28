@@ -5,6 +5,17 @@ footer {
 footer p {
     margin-bottom: .25rem;
 }
+.backToTop {
+    width: 50px;
+    height: 50px;
+}
+.back-to-top {
+    cursor: pointer;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    display:none;
+}
 .movie-modal .card:hover {
     -moz-box-shadow: 0 0 5px rgba(0,0,0,0.5);
     -webkit-box-shadow: 0 0 5px rgba(0,0,0,0.5);
