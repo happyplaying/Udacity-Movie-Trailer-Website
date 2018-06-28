@@ -1,6 +1,6 @@
 # Udacity-Movie-Trailer-Website-Project
 
-A simple movie trailer website project for Udacity's full-stack [nanodegree program](https://www.udacity.com/nanodegree). 
+A simple movie trailer website project for Udacity's full-stack [nanodegree program](https://www.udacity.com/nanodegree).<br /> 
 The project demonstrates the use of Python, JavaScript, HTML5 and CSS3. 
 
 ## Table of contents
