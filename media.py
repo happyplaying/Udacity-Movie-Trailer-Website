@@ -1,8 +1,9 @@
 import webbrowser
 
+
 class Movie():
     def __init__(self, id, title, description, year, poster, trailer):
-        """ 
+        """
         A movie class has the following four attributes
         title = movie's title, string
         year = movie's release year, interger
